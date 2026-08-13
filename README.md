@@ -33,3 +33,7 @@ Gosto de transformar problemas do dia a dia em soluções práticas usando tecno
 ## Objetivo profissional
 
 Quero atuar em projetos que unam desenvolvimento, dados, automação e resolução de problemas, contribuindo com soluções eficientes enquanto continuo evoluindo como profissional de tecnologia.
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Alencar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-alencar-3ab8aa2aa)
