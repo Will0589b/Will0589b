@@ -27,7 +27,7 @@ Gosto de transformar problemas do dia a dia em soluções práticas usando tecno
 ## Projetos em destaque
 
 - [Analisador de Números](https://github.com/Will0589b/curso-javascript-projetos) — aplicação web desenvolvida com HTML, CSS e JavaScript.
-- [Processamento Paralelo de Logs](https://github.com/Will0589b/unieuro-concorrente-202601-atividade3) — comparação entre processamento serial e paralelo de grandes volumes de arquivos.
+- [Processamento Paralelo de Logs](https://github.com/Will0589b/analisador-paralelo-de-logs) — comparação entre processamento serial e paralelo de grandes volumes de arquivos.
 - [Similaridade de Perguntas com MPI](https://github.com/Will0589b/unieuro-concorrente-202601-atividade5) — processamento distribuído aplicado à análise de similaridade de textos.
 
 ## Objetivo profissional
