@@ -26,6 +26,7 @@ Gosto de transformar problemas do dia a dia em soluções práticas usando tecno
 
 ## Projetos em destaque
 
+- [ExploreMundo](https://will0589b.github.io/exploremundo/) — landing page responsiva de viagens desenvolvida com HTML5 e CSS3. ([Código-fonte](https://github.com/Will0589b/exploremundo))
 - [Analisador de Números](https://github.com/Will0589b/curso-javascript-projetos) — aplicação web desenvolvida com HTML, CSS e JavaScript.
 - [Processamento Paralelo de Logs](https://github.com/Will0589b/analisador-paralelo-de-logs) — comparação entre processamento serial e paralelo de grandes volumes de arquivos.
 - [Similaridade de Perguntas com MPI](https://github.com/Will0589b/similaridade-perguntas-mpi) — processamento distribuído aplicado à análise de similaridade de textos.
