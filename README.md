@@ -37,4 +37,4 @@ Quero atuar em projetos que unam desenvolvimento, dados, automação e resoluç�
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Alencar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-alencar-3ab8aa2aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Alencar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-alencar-de-sousa)
